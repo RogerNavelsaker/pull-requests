@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{ "path": "." },
+		{ "path": "seeds" },
+		{ "path": "canopy" },
+		{ "path": "overstory" },
+		{ "path": "trellis" }
+	],
+	"settings": {}
+}
